@@ -1,0 +1,23 @@
+{
+  "repo": "bricscad-ultimate",
+  "product": "BricsCAD Ultimate",
+  "kind": "cad",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "dwg-cad",
+  "topics": [
+    "bricscad-ultimate",
+    "dwg-draft-desk",
+    "bim-ifc-windows",
+    "bricscad-2026",
+    "how-to-install-bricscad",
+    "bricscad-desktop-package",
+    "quad-solid-suite",
+    "layer-dim-tools",
+    "cad-drafting-premium",
+    "bricscad-ultimate-cad"
+  ],
+  "site": "toolix.me"
+}
